@@ -1,3 +1,4 @@
+//C program to print word
 #include<stdio.h>
 void main()
 {
